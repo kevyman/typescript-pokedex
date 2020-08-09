@@ -1,6 +1,6 @@
 ﻿# typescript-pokedex
 
-Project inspired by content found on https://www.ibrahima-ndaw.com/
+This is a list of pokemon (pokedex) made in typescript using the pokemon API. Inspired by content found at https://www.ibrahima-ndaw.com/
 
 Check out the finished project here:
 
